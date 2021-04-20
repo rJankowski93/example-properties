@@ -5,4 +5,4 @@ spring:
   jpa:
     hibernate:
       ddl-auto: none
-custom.property.value: 3
+custom.property.value: 5
