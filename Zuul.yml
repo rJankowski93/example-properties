@@ -3,5 +3,5 @@ zuul:
   ignoredServices: '*'
   routes:
     customers:
-      path: /v2/customers/**
+      path: /v3/customers/**
       serviceId: Customers
