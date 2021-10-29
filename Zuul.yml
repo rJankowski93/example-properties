@@ -1,0 +1,7 @@
+zuul:
+  prefix: /api
+  ignoredServices: '*'
+  routes:
+    customers:
+      path: /v1/customers/**
+      serviceId: Customers
