@@ -1,3 +1,3 @@
 spring:
   datasource:
-    password: '{cipher}5a26fa37aa01b933f044f06d7b5aadad048069d7612a4050def9aff5e165a1283a721b8e44de744fc0ce3347efb70fb8'
+    password: '{cipher}a3a14291668d7d5cfcde9644a5474ac00239707ee589824d29743e006806ad10'
