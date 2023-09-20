@@ -1,3 +1,9 @@
 custom:
   api:
     version: 47
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideNone: true
+      overrideSystemProperties: false
