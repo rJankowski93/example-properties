@@ -6,5 +6,5 @@ spring:
             allowOverride: true
             failFast: true
             overrideNone: false
-            overrideSystemProperties: false  <---- this has to be false
+            overrideSystemProperties: false 
 custom.property.value: 8
