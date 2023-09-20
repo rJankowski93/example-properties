@@ -1,9 +1,10 @@
 server:
   port: 0
 spring:
-  cloud:
-    config:
-      allowOverride: true
-      overrideNone: true
-      overrideSystemProperties: false
+    cloud:
+        config:
+            allowOverride: true
+            failFast: true
+            overrideNone: false
+            overrideSystemProperties: false  <---- this has to be false
 custom.property.value: 8
